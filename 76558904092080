@@ -1,4 +1,4 @@
 {
-  Build = "Testing",
-  Place_Id = "76558904092080"
+  BUILD = "Testing",
+  PLACE_ID = "76558904092080"
 }
